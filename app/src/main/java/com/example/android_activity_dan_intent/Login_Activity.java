@@ -11,6 +11,13 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+/*
+Nama: Muhammad Farhan R
+NIM : 10119023
+Kelas : IF-1
+tanggal : 23/04/2022
+ */
+
 public class Login_Activity extends AppCompatActivity {
 
     private Button btnLogin;

@@ -6,6 +6,13 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
+/*
+Nama: Muhammad Farhan R
+NIM : 10119023
+Kelas : IF-1
+tanggal : 23/04/2022
+ */
+
 public class Splash_Screen_Activity extends AppCompatActivity {
 
 

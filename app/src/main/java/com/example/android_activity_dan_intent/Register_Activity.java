@@ -7,6 +7,13 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+/*
+Nama: Muhammad Farhan R
+NIM : 10119023
+Kelas : IF-1
+tanggal : 23/04/2022
+ */
+
 public class Register_Activity extends AppCompatActivity {
 
     private Button regis;
